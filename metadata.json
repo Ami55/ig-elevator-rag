@@ -1,0 +1,6 @@
+{
+  "name": "IG-Elevator: RAG-Ready Content Architect",
+  "description": "Optimize content for the Answer Economy by purging zombie facts, bridging context debt, and restructuring paragraphs into high-gain atomic sandwiches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
