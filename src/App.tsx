@@ -640,7 +640,7 @@ ${input}
             <span>RAG Vector Precision</span>
           </div>
           <div className="text-center sm:text-right">
-            <div>© 2026 IG-Elevator: RAG-Ready Content Architect. Developed by <strong className="text-slate-700 dark:text-slate-300">Ami - SEO Girl</strong>. All rights reserved.</div>
+            <div>© 2026 IG-Elevator: RAG-Ready Content Architect. Developed by <strong className="text-slate-700 dark:text-slate-300">SEO Girl - Ami</strong>. All rights reserved.</div>
             <div className="font-mono text-[10px] mt-1 text-emerald-600 dark:text-emerald-400">Answer Economy Content Architecture</div>
           </div>
         </div>
